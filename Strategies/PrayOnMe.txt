@@ -1,0 +1,4 @@
+Computes every team's total Faith first, then finds the highest and lowest Faith among every team
+Bets % on team with the higher total Faith, % is highest Faith on highest team minus lowest Faith on lowest team
+
+Side note: "PrayAgainstMe" is basically the same, but, like, against that, y'know.
